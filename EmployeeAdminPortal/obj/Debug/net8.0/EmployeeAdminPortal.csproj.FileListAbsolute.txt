@@ -134,3 +134,4 @@ C:\Users\levi\Desktop\projects\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug
 C:\Users\levi\Desktop\projects\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.pdb
 C:\Users\levi\Desktop\projects\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.genruntimeconfig.cache
 C:\Users\levi\Desktop\projects\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\ref\EmployeeAdminPortal.dll
+C:\Users\levi\Desktop\projects\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.sourcelink.json
